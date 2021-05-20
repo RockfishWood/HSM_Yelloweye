@@ -42,5 +42,6 @@
 
 - Multiply reclassified variable rasters with weighted overlay tool. Start with equal weights and compare to species presence data, and then adjust weights as necessary.
 
+![Yelloweye Rockfish Habitat Suitability Model_KelliiWood](https://user-images.githubusercontent.com/47197642/119030389-4c198900-b956-11eb-8939-7bb9f87479dd.jpg)
 
 
