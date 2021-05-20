@@ -33,13 +33,13 @@
 ### GENERAL STEPS USED
 
 - Clip bathymetry raster down to a workable size for your species/study area.
-- 
+
 - Create environmental variables (rasters) by extracting environmental variable raster cell values to species presence data.
-- 
+
 - Summarize number of species per raster values to determine appropriate classes (i.e., 1 - not suitable, 2 - low suitability, 3 - moderate suitability, 4 - high suitability). Exporting data into Excel or R to run frequency bins is best way to determine appropriate classes.
 
 - Reclassify base raster files to match predetermined classes.
-- 
+
 - Multiply reclassified variable rasters with weighted overlay tool. Start with equal weights and compare to species presence data, and then adjust weights as necessary.
 
 
